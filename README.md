@@ -35,7 +35,7 @@ _You **can** combine them_
 
 ## Images
 
-![This is an alt text.]([/image/sample.png ](https://images.unsplash.com/photo-1618886487325-f665032b6352?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJlJTIwaW1hZ2VzfGVufDB8fDB8fHww&w=1000&q=80)"This is a sample image.")
+![This is an alt text.](https://images.unsplash.com/photo-1618886487325-f665032b6352?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmF0dXJlJTIwaW1hZ2VzfGVufDB8fDB8fHww&w=1000&q=80 "This is a sample image.")
 
 ## Links
 
